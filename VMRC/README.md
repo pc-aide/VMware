@@ -8,4 +8,4 @@
 ---
 
 ## URL
-1. [$Latest-Version](www.vmware.com/go/download-vmrc)
+1. [$Latest-Version-webPage](www.vmware.com/go/download-vmrc)
